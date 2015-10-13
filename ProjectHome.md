@@ -1,0 +1,1 @@
+Windows输入法编程框架，可用于输入法注入。注入的dll路径固定写死在全局g\_IMEDLLString中
